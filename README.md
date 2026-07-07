@@ -77,13 +77,17 @@ He abarcado el ciclo completo de desarrollo en diversos entornos, priorizando me
 
 ### 🎮 Intereses y Hobbies
 
-Fuera del código, mi día a día es bastante dinámico. Soy un ávido jugador y seguidor de los eSports, participando frecuentemente en títulos como VALORANT, EA SPORTS FC y Free Fire, sin dejar de lado el encanto del retro gaming mediante emuladores para revivir clásicos como Pokémon Fire Red. Disfruto de la música rock y alternativa con bandas como Linkin Park y Deftones, sigo de cerca el fútbol internacional (especialmente torneos como la Supercopa) y, cuando es momento de recargar energías, no perdono un buen plato de gastronomía peruana, ya sea un pollo a la brasa, un chifa o un tradicional caldo de gallina.
+Fuera del código, mi día a día es bastante dinámico. Soy un ávido jugador y seguidor de los eSports, participando frecuentemente en títulos como VALORANT y EA SPORTS FC, sin dejar de lado el encanto del retro gaming mediante emuladores para revivir clásicos como Pokémon Fire Red. Disfruto de la música rock y alternativa con bandas como Linkin Park y Deftones, sigo de cerca el fútbol internacional (especialmente torneos como la Supercopa) y, cuando es momento de recargar energías, no perdono un buen plato de gastronomía peruana, ya sea un pollo a la brasa, un chifa o un tradicional caldo de gallina.
 
 <br>
 
 ### 📊 Mis Estadísticas en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seratt15a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=seratt15a&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
-</div>
+<p align="center">
+  <a href="https://github.com/seratt15a">
+    <img src="https://github-readme-stats.vercel.app/api?username=seratt15a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+  </a>
+  <a href="https://github.com/seratt15a">
+    <img src="https://streak-stats.demolab.com/?user=seratt15a&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+  </a>
+</p>
