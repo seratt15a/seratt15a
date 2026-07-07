@@ -85,5 +85,5 @@ Fuera del código, mi día a día es bastante dinámico. Soy un ávido jugador y
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seratt15a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seratt15a&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=seratt15a&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
 </div>
