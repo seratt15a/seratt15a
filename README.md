@@ -69,7 +69,7 @@ He abarcado el ciclo completo de desarrollo en diversos entornos, priorizando me
   </tr>
   <tr>
     <td>🗣️</td>
-    <td><strong>Inglés</strong> - Nivel Intermedio (Estudios activos en ICPNA)</td>
+    <td><strong>Inglés</strong> - Nivel Intermedio </td>
   </tr>
 </table>
 
